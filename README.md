@@ -9,7 +9,7 @@
 
 - 🌱 I’m exploring **new Technologies.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gaurav78528](https://github.com/gaurav78528)
+- 👨‍💻 All of my projects are available at [https://gaurav78528.github.io/](https://gaurav78528.github.io/)
 
 - 💬 Ask me about **Html, CSS, JavaScript, React**
 
